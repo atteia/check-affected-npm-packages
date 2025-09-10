@@ -37,3 +37,6 @@ backslash@0.2.1
 error-ex@1.3.3
 
 ```
+
+
+![As of the time of publication, the current state of packages is as follows:](https://www.ox.security/wp-content/uploads/2025/09/image2.png)
